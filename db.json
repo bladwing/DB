@@ -13,12 +13,6 @@
     },
     {
       "id": 2,
-      "type": "single",
-      "question": "რომელი HTML ელემენტი არი მნიშვნელოვანი ტექსტის დასადგენად?",
-      "options": ["<strong>", "<i>", "<important>", "<b>"]
-    },
-    {
-      "id": 3,
       "type": "multiple",
       "question": "აქ იქნება ორი პასუხის ასარჩევი(multiple)...",
       "options": [
@@ -29,6 +23,13 @@
       ]
     },
     {
+      "id": 3,
+      "type": "single",
+      "question": "რომელი HTML ელემენტი არი მნიშვნელოვანი ტექსტის დასადგენად?",
+      "options": ["<strong>", "<i>", "<important>", "<b>"]
+    },
+    
+    {
       "id": 4,
       "type": "boolean",
       "question": "დისკრეტული კითხვა"
@@ -36,8 +37,8 @@
   ],
   "answers": [
     { "id": 1, "answer": 4 },
-    { "id": 2, "answer": 1 },
-    { "id": 3, "answer": [1, 3] },
+    { "id": 2, "answer": [1, 3] },
+    { "id": 3, "answer": 1 },
     { "id": 4, "answer": true }
   ]
 }
