@@ -44,33 +44,6 @@
         "მსოფლიო კონსორციუმი(გაერთიანება)",
         "Microsoft"
       ]
-    },
-    {
-      "id": 6,
-      "type": "single",
-      "question": "რას ნიშნავს CSS?",
-      "options": [
-        "Colorful Style Sheets",
-        "Computer Style Sheets",
-        "Cascading Style Sheets",
-        "Creative Style Sheets"
-      ]
-    },
-    {
-      "id": 7,
-      "type": "single",
-      "question": "რომელი HTML ატრიბუტი გამოიყენება inline სტილის განსაზღვრისთვის?",
-      "options": [
-        "class",
-        "styles",
-        "style",
-        "font"
-      ]
-    },
-    {
-      "id": 8,
-      "type": "boolean",
-      "question": "ჰიპერბმულებს ხაზგასმის გარეშე -  a {underline:none;}"
     }
     
   ],
