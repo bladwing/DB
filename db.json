@@ -3,7 +3,7 @@
     {
       "id": 1,
       "type": "single",
-      "question": "რა არის HTML?",
+      "question": "რა არის \n HTML?",
       "options": [
         "პროგრამირების ენა",
         "ვებ კომპონენტი",
