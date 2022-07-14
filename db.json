@@ -44,6 +44,17 @@
         "მსოფლიო კონსორციუმი(გაერთიანება)",
         "Microsoft"
       ]
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "question": "ho ho ho",
+      "options": [
+        "Facebook",
+        "Google",
+        "მსოფლიო კონსორციუმი(გაერთიანება)",
+        "Microsoft"
+      ]
     }
     
   ],
