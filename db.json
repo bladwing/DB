@@ -64,12 +64,12 @@
     {
       "id": 8,
       "type": "multiple",
-      "question": "აირჩიეთ ორი - ჯერეჯერობით კითხვა არარის.",
+      "question": "აირჩიეთ ორი სწორი CSS თვისება.",
       "options": [
-        "ტესტ",
-        "ტესტ2",
-        "ტესტ3",
-        "ტესტ4"
+        "padding",
+        "return",
+        "goHome",
+        "margin"
       ]
     }
   ],
@@ -82,7 +82,7 @@
     { "id": 5, "answer": 3 },
     { "id": 6, "answer": true },
     { "id": 7, "answer": 1 },
-    { "id": 8, "answer": [1, 2]}
+    { "id": 8, "answer": [1, 4]}
 
   ]
 }
