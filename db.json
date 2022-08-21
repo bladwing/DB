@@ -3,18 +3,18 @@
     {
       "id": 1,
       "type": "single",
-      "question": "რა არის HTML?",
+      "question": "What is HTML?",
       "options": [
-        "პროგრამირების ენა",
-        "ვებ კომპონენტი",
-        "ბიბლიოტეკა",
-        "ჰიპერტექსტური მარკირების ენა"
+        "Prgramming Language",
+        "Web Component",
+        "Library",
+        "Hypertext Markup Language"
       ]
     },
     {
       "id": 2,
       "type": "multiple",
-      "question": "აირჩიეთ ორი სწორი HTML ტაგი ",
+      "question": "Choose two correct HTML tag",
       "options": [
         "<p>",
         "<prius>",
@@ -25,30 +25,30 @@
     {
       "id": 3,
       "type": "single",
-      "question": "რომელი HTML ელემენტი არი მნიშვნელოვანი ტექსტის დასადგენად?",
+      "question": "Choose the correct HTML element to define important text?",
       "options": ["<strong>", "<i>", "<important>", "<b>"]
     },
     
     {
       "id": 4,
       "type": "boolean",
-      "question": "HTML კომენტარები იწყება <!-- and end with -->"
+      "question": "HTML comment start from <!-- and end with -->"
     },
     {
       "id": 5,
       "type": "single",
-      "question": "ვინ ქმნის ვებ სტანდარტებს?",
+      "question": "Who is making the Web standards?",
       "options": [
         "Facebook",
         "Google",
-        "მსოფლიო კონსორციუმი(გაერთიანება)",
+        "The World Wide Web Consortium",
         "Microsoft"
       ]
     },
     {
       "id": 6,
       "type": "boolean",
-      "question": "CSS არის Cascading Style Sheets?"
+      "question": "CSS are - Cascading Style Sheets?"
     },
     {
       "id": 7,
@@ -64,7 +64,7 @@
     {
       "id": 8,
       "type": "multiple",
-      "question": "აირჩიეთ ორი სწორი CSS თვისება.",
+      "question": "Choose two correct CSS property.",
       "options": [
         "padding",
         "return",
